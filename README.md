@@ -1,5 +1,5 @@
 # Multivariate Road Traffic Forecasting
-![Road Traffic]("images/traffic.jpg")
+![Road Traffic](images/traffic.jpg)
 ## Overview
 
 This project utilizes multivariate time series forecasting with LSTM (Long Short-Term Memory) to predict road traffic conditions. The data for this project was fetched from the UK National Highway website through their API and supplemented with weather data from a separate API. The project is implemented using Python and Jupyter Notebook.
